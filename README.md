@@ -3,7 +3,7 @@
 
 python3 -m virtualenv .venv
 
-source .venvbin/activate
+source .venv/bin/activate
 
 pip install -r requirements.txt
 
